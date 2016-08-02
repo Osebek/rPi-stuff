@@ -1,0 +1,6 @@
+
+Received 7 packets, got 4 answers, remaining 252 packets
+  00:0e:8f:74:d5:eb 192.168.1.1
+  e0:69:95:ba:9b:4b 192.168.1.7
+  f0:7b:cb:23:a9:0b 192.168.1.2
+  34:4d:f7:37:c3:ef 192.168.1.5
